@@ -11,7 +11,7 @@ This package is provided as-is and is based on collective community contribution
 3. Extract **all files** from this archive into the **root directory** of the USB drive
 4. Shut down the computer
 5. Insert the USB drive and **boot from it** (e.g., press **F11** for Boot Menu on MSI, then select your USB drive)
-6. When prompted with the bootloader screen, do **nothing** — it will automatically boot into your original OS
+6. When prompted with the bootloader screen, it will automatically boot into your original OS
 7. Once in the OS, you may safely remove the USB drive
 
 > To apply the VT-d fix on each boot, simply insert the USB drive and repeat step 5.
